@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>OxPay — Terms & Conditions</title>
+  <meta name="description" content="OxPay Terms & Conditions." />
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;margin:0;background:#0b0b12;color:#f2f2f7;line-height:1.6}
+    .wrap{max-width:860px;margin:0 auto;padding:40px 18px}
+    .card{background:#141427;border:1px solid #26264a;border-radius:14px;padding:22px}
+    a{color:#7dd3fc;text-decoration:none}
+    a:hover{text-decoration:underline}
+    h1{font-size:28px;margin:0 0 6px}
+    h2{font-size:18px;margin:22px 0 8px}
+    .muted{color:#b7b7c7;font-size:14px}
+    ul{margin:8px 0 0 18px}
+    code{background:#0f1020;border:1px solid #2b2b55;padding:2px 6px;border-radius:8px}
+    hr{border:0;border-top:1px solid #26264a;margin:18px 0}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <a href="/" class="muted">← Back</a>
+      <h1>Terms &amp; Conditions</h1>
+      <div class="muted">Last updated: <strong>December 19, 2025</strong></div>
+
+      <p>
+        These Terms &amp; Conditions (“Terms”) govern your access to and use of the OxPay mobile application and related services
+        (collectively, “OxPay”, “we”, “us”, or “our”). By downloading, installing, accessing, or using OxPay, you agree to these Terms.
+        If you do not agree, do not use OxPay.
+      </p>
+
+      <h2>1) Important Disclosures</h2>
+      <ul>
+        <li><strong>Non-custodial:</strong> OxPay is a <strong>non-custodial</strong> wallet. We do not hold, custody, or control your private keys, seed phrase, or digital assets.</li>
+        <li><strong>You are responsible:</strong> You are solely responsible for safeguarding your device, wallet credentials, seed phrase, and any transactions you authorize.</li>
+        <li><strong>No financial advice:</strong> OxPay does not provide investment, tax, or legal advice. Any information displayed is for informational purposes only.</li>
+        <li><strong>Blockchain risk:</strong> Digital assets and blockchain networks involve risk, including loss of funds due to user error, third-party actions, or network issues.</li>
+      </ul>
+
+      <h2>2) Eligibility</h2>
+      <p>
+        You must be legally able to enter into these Terms and comply with all applicable laws in your jurisdiction. You may not use OxPay
+        where it is prohibited.
+      </p>
+
+      <h2>3) Wallet &amp; Transactions</h2>
+      <ul>
+        <li>You control your wallet and authorize transactions. Transactions are generally irreversible once broadcast to a blockchain.</li>
+        <li>OxPay may provide access to third-party services (e.g., swaps, on-ramps/off-ramps, token data). Those providers’ terms apply.</li>
+        <li>Network fees (“gas”) and third-party fees may apply. OxPay may display estimated fees, but actual fees can vary.</li>
+      </ul>
+
+      <h2>4) Rewards, Cashback, Points, Referrals</h2>
+      <p>
+        OxPay may offer rewards, cashback, points, or referral incentives (“Rewards”). Rewards are optional features and may be changed,
+        paused, or discontinued at any time, subject to applicable law.
+      </p>
+      <ul>
+        <li>We may set eligibility rules (e.g., minimum activity, anti-fraud checks, limits).</li>
+        <li>Attempts to abuse Rewards (multiple accounts, automated farming, self-referrals, etc.) may result in disqualification.</li>
+      </ul>
+
+      <h2>5) Prohibited Activities</h2>
+      <p>You agree not to:</p>
+      <ul>
+        <li>Use OxPay for illegal activity, fraud, money laundering, or sanctions evasion.</li>
+        <li>Attempt to bypass security, reverse engineer, exploit, or disrupt the app or networks.</li>
+        <li>Use automated scripts/bots to manipulate usage, Rewards, or referral systems.</li>
+      </ul>
+
+      <h2>6) Third-Party Services &amp; Links</h2>
+      <p>
+        OxPay may integrate or link to third-party services. We do not control them and are not responsible for their content, availability,
+        or actions. Your use of third-party services is at your own risk and governed by their terms and privacy policies.
+      </p>
+
+      <h2>7) Intellectual Property</h2>
+      <p>
+        OxPay and its content are owned by us or our licensors and are protected by intellectual property laws. You receive a limited,
+        non-exclusive, non-transferable license to use OxPay for personal lawful purposes.
+      </p>
+
+      <h2>8) Disclaimers</h2>
+      <p>
+        OxPay is provided on an <strong>“AS IS”</strong> and <strong>“AS AVAILABLE”</strong> basis. To the maximum extent permitted by law,
+        we disclaim all warranties, express or implied, including merchantability, fitness for a particular purpose, and non-infringement.
+      </p>
+
+      <h2>9) Limitation of Liability</h2>
+      <p>
+        To the maximum extent permitted by law, we will not be liable for any indirect, incidental, special, consequential, or punitive damages,
+        or any loss of profits, revenue, data, goodwill, or digital assets, arising from or related to your use of OxPay.
+      </p>
+      <p>
+        Without limiting the above, we are not responsible for losses due to: user error, lost seed phrase, unauthorized access to your device,
+        smart contract vulnerabilities, blockchain/network congestion, or third-party service failures.
+      </p>
+
+      <h2>10) Indemnification</h2>
+      <p>
+        You agree to indemnify and hold harmless OxPay and its affiliates from any claims, damages, liabilities, and expenses arising from your
+        use of OxPay or violation of these Terms.
+      </p>
+
+      <h2>11) Changes to OxPay or These Terms</h2>
+      <p>
+        We may update OxPay and these Terms from time to time. The “Last updated” date indicates the latest revision.
+        Continued use after changes means you accept the updated Terms.
+      </p>
+
+      <h2>12) Governing Law</h2>
+      <p>
+        These Terms are governed by the laws of <strong>[INSERT STATE/COUNTRY]</strong>, without regard to conflict of law principles.
+        Any disputes will be resolved in the courts located in <strong>[INSERT COUNTY/STATE]</strong>, unless applicable law requires otherwise.
+      </p>
+
+      <h2>13) Contact</h2>
+      <p>
+        Questions about these Terms? Contact us at
+        <a href="mailto:support@oxpay.app">support@oxpay.app</a>.
+      </p>
+
+      <hr />
+      <p class="muted">
+        Related: <a href="/privacy">Privacy Policy</a>
+      </p>
+    </div>
+  </div>
+</body>
+</html>
